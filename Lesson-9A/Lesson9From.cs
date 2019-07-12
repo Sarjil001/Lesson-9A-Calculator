@@ -54,5 +54,10 @@ namespace Lesson_9A
         {
 
         }
+
+        private void NumberButtonTableLayoutPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
