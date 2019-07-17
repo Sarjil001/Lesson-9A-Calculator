@@ -64,16 +64,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lesson9From.cs">
+    <Compile Include="CalculatorForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Lesson9From.Designer.cs">
-      <DependentUpon>Lesson9From.cs</DependentUpon>
+    <Compile Include="CalculatorForm.Designer.cs">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Lesson9From.resx">
-      <DependentUpon>Lesson9From.cs</DependentUpon>
+    <EmbeddedResource Include="CalculatorForm.resx">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
